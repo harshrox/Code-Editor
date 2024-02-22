@@ -111,4 +111,24 @@ function run(){
     });
 
 
+    // Removing the default behavior of tab key which was to switch to next field.
+    html.addEventListener("keydown", function(event) {
+        if (event.key === "Tab") {
+            event.preventDefault();
+        }
+    });
+    // Removing the default behavior of tab key which was to switch to next field.
+    css.addEventListener("keydown", function(event) {
+        if (event.key === "Tab") {
+            event.preventDefault();
+        }
+    });
+    // Removing the default behavior of tab key which was to switch to next field.
+    js.addEventListener("keydown", function(event) {
+        if (event.key === "Tab") {
+            event.preventDefault();
+        }
+    });
+
+
 }
