@@ -1,4 +1,4 @@
-# Code Editor Website
+# Code Editor
 
 Welcome to the Code Editor Website! This website provides a simple online code editor where you can write and preview HTML, CSS, and JavaScript code in real-time.
 
