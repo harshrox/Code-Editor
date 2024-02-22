@@ -14,4 +14,4 @@ To use the Code Editor Website, simply open the website in your web browser. You
 ## Features to be added soon
 
 - **Better Responsive Design**
-- **Syntax highlighting**
+- **Syntax Highlighting**
